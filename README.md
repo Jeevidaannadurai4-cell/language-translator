@@ -30,3 +30,32 @@ The project is developed using HTML, CSS, and JavaScript with a clean and respon
 - Browser Storage (LocalStorage)
 
 ## 📂 Project Structure
+</> Markdown
+language-translator
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
+## ▶️ How to Run
+
+1. Download or clone the repository
+2. Open `index.html` in a browser
+3. Enter text to translate
+4. Select source and target languages
+5. Click the Translate button
+
+## 🎯 Future Enhancements
+
+- Voice Input Support
+- More Language Support
+- Improved Translation Accuracy
+- User Login System
+
+## 👩‍💻 Developer
+
+**Jeevida Annadurai**
+
+B.Tech Information Technology Student
